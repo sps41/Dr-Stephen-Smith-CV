@@ -1,3 +1,6 @@
+# Education
+---
+
 ## Post-graduate formal qualifications
 **MPhil (Computational Biology)**  
 *2013 - 2014*  
@@ -7,7 +10,7 @@ University of Cambridge, UK
 *2001 - 2004*  
 University of Edinburgh, UK
 
-# Post-graduate professional qualifications
+## Post-graduate professional qualifications
 
 **MRCP (UK)**  
 *2012*  
@@ -17,7 +20,7 @@ Royal College of Physicians (London)
 *2009 - 2010*  
 Open University, UK
 
-# Undergraduate degrees
+## Undergraduate degrees
 
 **MB BChir (Medicine and Surgery)**  
 *2004 - 2009*  
@@ -27,7 +30,7 @@ University of Cambridge, UK
 *1997 - 2001*  
 University of Edinburgh, UK
 
-# Schooling
+## Schooling
 
 Tonbridge School, Tonbridge, Kent    
 *1992-1997*   
