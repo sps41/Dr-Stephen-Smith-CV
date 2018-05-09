@@ -3,7 +3,7 @@
 *University of Cambridge and EMBL-European Bioinformatics Institute*  
 **Honorary Speciality Registrar in Dermatology and Clinical Pharmacology**  
 *Addenbrookes Hospital, Cambridge*
----
+
 I am a computational biologist
 
 ## Contents
