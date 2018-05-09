@@ -1,11 +1,11 @@
-## Dr Stephen Smith, BSc, MB BChir, MPhil, MRCP (UK), PhD.  
+# Dr Stephen Smith, BSc, MB BChir, MPhil, MRCP (UK), PhD.  
 **MRC Post-doctoral Clinical Research Fellow
 University of Cambridge and EMBL-European Bioinformatics Institute
 Honorary Speciality Registrar in Dermatology and Clinical Pharmacology (Addenbrookes Hospital, Cambridge)**
 ---
 I am a computational biologist
 
-### Contents
+## Contents
 
 [Education](/Education.md/)  
 [Employment History](/Employment.md/)  
@@ -18,7 +18,7 @@ I am a computational biologist
 [Conferences](/Conferences.md/)  
 [Personal](/Personal.md/)  
 
-### Contact details
+## Contact details
 
 Email: sps41 "at" cam.ac.uk   
 Twitter: [@stevesmithcam](https://twitter.com/stevesmithcam)  
