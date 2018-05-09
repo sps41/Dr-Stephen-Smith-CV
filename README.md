@@ -21,6 +21,6 @@ I am a computational biologist
 
 ## Contact details
 
-Email: sps41 "at" cam.ac.uk   
-Twitter: [@stevesmithcam](https://twitter.com/stevesmithcam)  
-Address: Department of Pathology, University of Cambridge, Tennis Court Road, Cambridge CB21PQ, UK.  
+**Email:** sps41 "at" cam.ac.uk   
+**Twitter:** [@stevesmithcam](https://twitter.com/stevesmithcam)  
+**Address:** Department of Pathology, University of Cambridge, Tennis Court Road, Cambridge CB21PQ, UK.  
