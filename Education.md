@@ -1,10 +1,10 @@
-# Post-graduate formal qualifications
-**MPhil (Computational Biology)**
-*2013 - 2014*
-University of Cambridge, UK
+## Post-graduate formal qualifications
+**MPhil (Computational Biology)**  
+*2013 - 2014*  
+University of Cambridge, UK  
 
-**PhD (Molecular Immunology)**
-*2001 - 2004*
+**PhD (Molecular Immunology)**  
+*2001 - 2004*  
 University of Edinburgh, UK
 
 # Post-graduate professional qualifications
