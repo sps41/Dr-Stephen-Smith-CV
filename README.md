@@ -1,4 +1,6 @@
-## Welcome to the CV for Dr Stephen Smith
+## Dr Stephen Smith, BSc, MB BChir, MPhil, MRCP (UK), PhD.  
+MRC Post-doctoral Clinical Research Fellow at the University of Cambridge and EMBL-European Bioinformatics Institute
+Honorary Speciality Registrar in Dermatology and Clinical Pharmacology at Addenbrookes Hospital (Cambridge)
 
 I am a computational biologist
 
