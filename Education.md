@@ -3,9 +3,7 @@
 # Professional qualifications
 
 MRCP (UK)
-
 2012
-
 Royal College of Physicians (London)
 
 # Undergraduate degree
