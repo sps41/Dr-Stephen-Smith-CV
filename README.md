@@ -1,6 +1,5 @@
-Dr Stephen Smith  
-BSc, MB BChir, MPhil, MRCP (UK), PhD.  
----
+# Dr Stephen Smith <br/> BSc, MB BChir, MPhil, MRCP (UK), PhD.  
+
 **MRC Post-doctoral Clinical Research Fellow**  
 *University of Cambridge and EMBL-European Bioinformatics Institute*  
 **Honorary Speciality Registrar in Dermatology and Clinical Pharmacology**  
