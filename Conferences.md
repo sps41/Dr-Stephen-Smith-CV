@@ -1,1 +1,3 @@
 # Conferences
+
+Annual Symposium of the Cambridge Computational Biology Institute (Cambridge, UK) 2011, 2012, 2013 British Association of Dermatologists Annula Meeting (UK) 2015, 2016 British Society for Investigative Dermatology (UK) 2015 British Society for Medical Dermatology Meeting (RCP, London, UK) 2011, 2016 HPV UK (Lake District, UK) 2012, 2014, 2016 University of Cambridge Department of Medicine Research Day (Cambridge, UK) 2013 Academy of Medcial Sciences: Developing a career in academic medicine. (Cambridge, UK) 2013 Building Bridges in Medical Sciences (Cambridge, UK) 2011, 2012 European Students’ Conference (Berlin, Germany) 2006 Infectious Diseases Society of America Annual Meeting (Boston, USA) 2004
