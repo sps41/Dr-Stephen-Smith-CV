@@ -1,5 +1,8 @@
 # Publications
 
+[ORCID #0000-0001-7744-3238](https://orcid.org/0000-0001-7744-3238)
+[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=zhl2S5oAAAAJ)
+
 ## Journal Articles (Peer-reviewed) 
 
 **Smith SP**, Scarpini CG, Groves IJ, Odle RI, Coleman N <br>
