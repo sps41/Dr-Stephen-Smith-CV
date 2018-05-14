@@ -16,7 +16,7 @@ I am a computational biologist
 [Publications](/Publications.md/)  
 [Awards and Grants](/Awards.md/)  
 [Presentations and Invited Talks](/Presentations.md/)  
-[Teaching and Supervision](/Teaching.md/)
+[Teaching and Supervision](/Teaching.md/)  
 [Courses and Qualifications](/Courses.md/)  
 [Conferences](/Conferences.md/)  
 [Personal](/Personal.md/)  
