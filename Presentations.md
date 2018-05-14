@@ -1,3 +1,4 @@
+
 # Presentations, Lectures & Invited Talks
 
 ## Oral Presentations International/National Meetings 
@@ -18,6 +19,7 @@
 
 ## Conference Presentations
 
+2018: Smith SP, Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA).  [Poster](/IID_2018_poster_SSmith.pdf/) <br>
 2017: Smith SP GATAD2A, a chromatin remodelling gene, is a powerful prognostic marker in malignant melanoma. British Society for Investigative Dermatology (Manchester, UK)  <br>
 2016: Smith SP, Mehta SG, Burrows N. A Rare Form of Classical Ehlers-Danlos Syndrome with Arterial Rupture. British Society for Medical Dermatology (London, UK)  <br>
 2015: Smith SP Network Analysis of Melanoma Metastasis. British Association of Dermatologists Annual Congress (Manchester, UK)  <br>
