@@ -13,7 +13,7 @@ Parry AJ, Hoare M, Bihary D, Hänsel-Hertsch R, **Smith SP**, Tomimatsu K, Manni
 *NOTCH-mediated non-cell autonomous regulation of chromatin structure during senescence.* <br>
 **Nature Communications** May 2018 volume 9, Article number: 1840 (2018) doi:10.1038/s41467-018-04283-9
 
-Kucia‐Tran, J. A., Tulkki, V. , Scarpini, C. G., Smith, S. , Wallberg, M. , Paez‐Ribes, M. , Araujo, A. M., Botthoff, J. , Feeney, M. , Hughes, K. , Caffarel, M. M. and Coleman, N.  <br>
+Kucia‐Tran, J. A., Tulkki, V. , Scarpini, C. G., **Smith, S.P.** , Wallberg, M. , Paez‐Ribes, M. , Araujo, A. M., Botthoff, J. , Feeney, M. , Hughes, K. , Caffarel, M. M. and Coleman, N.  <br>
 *Anti‐oncostatin M antibody inhibits the pro‐malignant effects of oncostatin M receptor overexpression in squamous cell carcinoma.* <br>
 **Journal of Pathology**, Jan. 2018 244: 283-295. doi:10.1002/path.5010
 
