@@ -5,7 +5,7 @@
 
 ## Journal Articles (Peer-reviewed) 
 
-Pellagatti A*, Steeples V*, Armstrong RN*, Sharma E, Repapi E, Singh S, Sanchi A, Radujkovic A, Horn P, Dolatshad H, Roy S, Lockstone H, Taylor S, Giagounidis A, Vyas P, Schuh A, Hamblin A, Papaemmanuil E, Killick S, Malcovati L, Gavin A-C, Ho AD, Luft T, Hellström-Lindberg E, Cazzola M, Smith CWJ, **Smith SP**, and Boultwood J <br>
+Pellagatti A, Steeples V, Armstrong RN, Sharma E, Repapi E, Singh S, Sanchi A, Radujkovic A, Horn P, Dolatshad H, Roy S, Lockstone H, Taylor S, Giagounidis A, Vyas P, Schuh A, Hamblin A, Papaemmanuil E, Killick S, Malcovati L, Gavin A-C, Ho AD, Luft T, Hellström-Lindberg E, Cazzola M, Smith CWJ, **Smith SP**, and Boultwood J <br>
 *Impact  of spliceosome mutations on RNA splicing in myelodysplasia: dysregulated genes/pathways and clinical associations.* <br>
 **Blood** May 2018 Final Revisions
 
@@ -25,7 +25,7 @@ Kucia‐Tran, J. A., Tulkki, V. , Scarpini, C. G., Smith, S. , Wallberg, M. , Pa
 *Identification of host transcriptional networks showing concentration-dependent regulation by HPV16 E6 and E7 proteins in basal cervical squamous epithelial cells.* <br>
 **Scientific Reports** Jul 2016; 6:29832. doi:10.1038/srep29832 
 
-Kucia J*, Tulkki V*, **Smith SP**, Scarpini C, Hughes K, Araujo AM, Yan KYM, Botthof J, Prez-Gmez E, Sanchez C, Quintanilla M, Cuschieri K, Caffarel MM, Coleman N <br>
+Kucia J, Tulkki V, **Smith SP**, Scarpini C, Hughes K, Araujo AM, Yan KYM, Botthof J, Prez-Gmez E, Sanchez C, Quintanilla M, Cuschieri K, Caffarel MM, Coleman N <br>
 *Overexpression of the oncostatin M receptor in cervical squamous cell carcinoma is associated with epithelialmesenchymal transition and increased metastasis.* <br>
 **British Journal of Cancer** Jul 2016; 115(2):212–22. doi:10.1038/bjc.2016.199 
 
