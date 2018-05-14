@@ -1,6 +1,6 @@
 # Awards, Prizes & Grants
 
-##Awards
+## Awards
 
 2018: European Society for Dermatological Research Travel Award <br>
 2018: British Association of Dermatologists Travel Award <br>
@@ -10,11 +10,11 @@
 2016: British Society for Investigative Dermatology Specialist Registrar Bursary <br> 
 2015: THESIS BSID Fellowship <br> 
 
-##Prizes
+## Prizes
 
 2017: Emirates Dermatology Society Conference 2017, Best Abstract Prize <br>
 
-##Grants
+## Grants
 
 2018–2021: Medical Research Council Post-Doctoral Clinical Research Training Fellowship: "Computational Analysis of Transcription and Alternative Splicing Events in Squamous Cell Cancer." (Principal Investigator; £351,712) <br>
 2017: Cambridge Biomaker Challenge Grant: "Building DeepSkin a low-cost state-of-the-art digital dermatoscope" (Principal Investigator; £1,000) <br>
