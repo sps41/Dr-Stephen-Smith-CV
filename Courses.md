@@ -10,6 +10,11 @@
 2018: BPS Experimental Medicine Training Day (Early phase trial design) <br>
 2018: NIHR Statistics Group Early Phase Trials workshop <br>
 2017: NICE Technology appraisals Away Day <br>
+2017: BPS Clinical Pharmacology Training Day <br>
+2017: BAD Dermatology Registrars' Training Day <br>
+2016: BPS Clinical Pharmacology Training Day <br>
+2016: BAD Dermatology Registrars' Training Day <br>
+2015: BAD Dermatology Registrars' Training Day <br>
 2013: Introduction to Biology of the Skin <br>
 2013: An Introduction to Solving Biological Problems with R <br>
 2013: An Introduction to Solving Biological Problems with Python <br>
