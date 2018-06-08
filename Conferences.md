@@ -7,16 +7,19 @@ British Association of Dermatologists Annual Meeting (UK) 2016 (Birmingam, UK) <
 
 ## Presenter
 
+International Investigative Dermatology Conference 2018 (Orlando, FL, USA)* <br>
 Emirates Dermatology Conference 2017 (Abu Dhabi, UAE) <br>
 British Society for Investigative Dermatology 2017 (Manchester, UK) <br>
 British Society for Medical Dermatology Meeting 2017 (RCP, London, UK) <br>
-HPV UK (Lake District, UK) 2016  <br>
+HPV UK (Lake District, UK) 2016*  <br>
 British Society for Investigative Dermatology 2015 (Southampton, UK) <br>
-HPV UK (Lake District, UK) 2014  <br>
+HPV UK (Lake District, UK) 2014*  <br>
 Infectious Diseases Society of America Annual Meeting (Boston, USA) 2004 <br>
+*Oral presentations
 
 ## Delegate
 
+International Investigative Dermatology Conference 2018 (Orlando, FL, USA)<br>
 NICE Technology appraisals Away day 2017 <br>
 Emirates Dermatology Conference 2017 (Abu Dhabi, UAE) <br>
 Annual Symposium of the Cambridge Computational Biology Institute (Cambridge, UK) 2011, 2012, 2013 <br>
