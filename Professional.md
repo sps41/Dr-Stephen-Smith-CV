@@ -19,3 +19,7 @@ British Association of Dermatologists (BAD)<br>
 European Society for Dermatological Research (ESDR)<br>
 British Society for Investigative Dermatology (BSID)<br>
 British Pharmacological society (BPS)<br>
+
+## Leadership & Management Training
+
+2018: International Investigative Dermatology Residents Retreat (Orlando, Florida)
