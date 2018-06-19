@@ -23,7 +23,9 @@ The gold standard non-invasive diagnostic tool for skin cancer by dermatologists
 ## Collaborations
 
 **Prof. Jacquline Boultwood** *(University of Oxford)*. RNA-seq and splicing analysis in myelodysplastic syndrome (Pellagetti et al, Blood 2018)<br>
-**Narita lab** *(University of Cambridge Cancer Institute)*. Molecular basis of sensescence and its role in carcinogenesis (Parry et al, Nature Communications 2018).
+**Narita lab** *(University of Cambridge Cancer Institute)*. Molecular basis of sensescence and its role in carcinogenesis (Parry et al, Nature Communications 2018).<br>
+**Coleman Lab** *(University of Cambridge)*. Ongoing collaboration with Coleman group members on bioinformatics aspects of work in squamous cell carcinoma, HPV biology and paediatric tumours. (Kucia-Tran et al, British Journal of Cancer 2016, Journal of Pathology 2018) <br>
+**Raffan/O'Rahilly group** *(University of Cambridge, IMS)*. Collaboration on data analysis of genetic effects on obesity in dogs. (Raffan et al, Cell Metabolism 2016, PeerJ 2015).
 
 ## Previous Research
 
@@ -31,7 +33,7 @@ The gold standard non-invasive diagnostic tool for skin cancer by dermatologists
 
 **Functional genomics analysis of papillomavirus oncogenesis in W12 cell lines**<br>  
 **Supervisor:** Professor Nicholas Coleman<br>  
-This research explored the functional genomic aspects of HPV carcinogenesis applying network models to high-quality gene expression data in a cell model of HPV16 mediated oncogenesis. This work has been submitted for publication.
+This research explored the functional genomic aspects of HPV carcinogenesis applying network models to high-quality gene expression data in a cell model of HPV16 mediated oncogenesis (Smith et al, Scientific Reports 2016).
 
 ### PhD Thesis 
 
