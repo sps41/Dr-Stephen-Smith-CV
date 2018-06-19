@@ -14,6 +14,7 @@
 2017: BAD Dermatology Registrars' Training Day <br>
 2016: BPS Clinical Pharmacology Training Day <br>
 2016: BAD Dermatology Registrars' Training Day <br>
+2016: Wellcome Advanced Course in Genomics for Dermatology <br>
 2015: BAD Dermatology Registrars' Training Day <br>
 2013: Introduction to Biology of the Skin <br>
 2013: An Introduction to Solving Biological Problems with R <br>
