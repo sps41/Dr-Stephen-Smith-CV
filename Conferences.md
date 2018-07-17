@@ -19,6 +19,8 @@ Infectious Diseases Society of America Annual Meeting (Boston, USA) 2004 <br>
 
 ## Delegate
 
+Innovation, Collaboration and Entrepreneurship in Drug Discovery 2018 (Cambridge, UK)<br>
+BAYES 2018: Bayesian Biostatistics Workshop (Cambridge, UK)<br>
 International Investigative Dermatology Conference 2018 (Orlando, FL, USA)<br>
 NICE Technology appraisals Away day 2017 <br>
 Emirates Dermatology Conference 2017 (Abu Dhabi, UAE) <br>
