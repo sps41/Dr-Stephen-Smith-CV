@@ -8,6 +8,7 @@ British Association of Dermatologists Annual Meeting (UK) 2016 (Birmingam, UK) <
 ## Presenter
 
 International Investigative Dermatology Conference 2018 (Orlando, FL, USA)* <br>
+Cambridge Pathology symposium 2018 (Cambridge, UK)<br>
 Emirates Dermatology Conference 2017 (Abu Dhabi, UAE) <br>
 British Society for Investigative Dermatology 2017 (Manchester, UK) <br>
 British Society for Medical Dermatology Meeting 2017 (RCP, London, UK) <br>
