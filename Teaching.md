@@ -3,6 +3,7 @@
 ## Research supervision
 
 2019: Hira Hasan, Undergraduate BSc research placement (HPV induced RNA splicing). <br>
+2018: Augustus Rottenberg, Summer research placement (*In vitro* analysis of drug repositioning candidates for melanoma). <br> 
 2018: Andrew Farr, research placement (Bioinformatics of drug repositioning). <br>
 
 ## Clinical supervision
