@@ -7,6 +7,7 @@
 
 ## Courses Attended 
 
+2019: Cambridge Judge Business School Entrepeneurship Centre Accelerate Plus Program <br>
 2018: European Society for Dermatological Research Future Leaders Academy <br>
 2018: BPS Experimental Medicine Training Day (Early phase trial design) <br>
 2018: NIHR Statistics Group Early Phase Trials workshop <br>
