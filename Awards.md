@@ -14,6 +14,7 @@
 
 ## Prizes
 
+2019: Cambridge Judge Business School Medical Technologies Competition, 2nd Prize <br>
 2017: Emirates Dermatology Society Conference 2017, Best Abstract Prize <br>
 
 ## Grants
