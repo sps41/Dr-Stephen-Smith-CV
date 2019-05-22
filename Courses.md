@@ -7,15 +7,21 @@
 
 ## Courses Attended 
 
+2019: BAD Dermatology Registrars' Training Day <br>
 2019: Cambridge Judge Business School Entrepeneurship Centre Accelerate Plus Program <br>
+2018: NICE Technology appraisals Away Day <br>
+2018: BAD Dermatology Registrars' Training Day <br>
+2018: East Region Dermatology Education update Day <br>
 2018: European Society for Dermatological Research Future Leaders Academy <br>
 2018: BPS Experimental Medicine Training Day (Early phase trial design) <br>
 2018: NIHR Statistics Group Early Phase Trials workshop <br>
 2017: NICE Technology appraisals Away Day <br>
+2017: East Region Dermatology Education update Day <br>
 2017: BPS Clinical Pharmacology Training Day <br>
 2017: BAD Dermatology Registrars' Training Day <br>
 2016: BPS Clinical Pharmacology Training Day <br>
 2016: BAD Dermatology Registrars' Training Day <br>
+2016: East Region Dermatology Education update Day <br>
 2016: Wellcome Advanced Course in Genomics for Dermatology <br>
 2015: BAD Dermatology Registrars' Training Day <br>
 2013: Introduction to Biology of the Skin <br>
