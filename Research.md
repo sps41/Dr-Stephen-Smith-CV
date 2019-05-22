@@ -3,8 +3,8 @@
 ## Current Research 
 
 **Computational analysis of next-generation sequencing data in squamous cell oncogenesis.**<br>
-**Sponsor:** Professor Nicholas Coleman<br>
-**Collaborators:** Professor Eugene Healy (Univ. Southampton), Prof. Chris Smith (Cambridge, Biochemistry) & Dr. Anton Enright (Univ. Cambridge/EMBL-EBI)<br>
+**Sponsor:** [Professor Nicholas Coleman](https://www.path.cam.ac.uk/directory/nick-coleman) <br>
+**Collaborators:** [Professor Eugene Healy (Univ. Southampton)](https://www.southampton.ac.uk/medicine/about/staff/ehealy.page), Prof. Chris Smith (Cambridge, Biochemistry) & [Dr. Anton Enright (Univ. Cambridge/EMBL-EBI)](https://www.path.cam.ac.uk/directory/anton-enright)<br>
 
 Squamous cell carcinogenesis is a complex, highly integrated systems-based process. In order to more fully understand the nature of genomic processes underlying the transformation from epithelium to SCC I am interrogating large scale NGS datasets (both RNA-seq and DNA-seq). This MRC funded post-doctoral fellowship is focused on the analysis and integration of expression profiling and genomic sequencing data, including network analysis and comparative analysis of publically available data (such as from TCGA) with our experimental work. The project is particularly trageted at understanding the role of alternative RNA splicing in the pathogenesis of squamous cell carcinoma. We will use patient-derived samples from skin and cervix and aim to translate the findings across squamous-type carcinomas in other organ systems.
 
@@ -22,24 +22,24 @@ The gold standard non-invasive diagnostic tool for skin cancer by dermatologists
 
 ## Collaborations
 
-**Dr. Amaya Viros** *(CRUK Manchester Institute)*. Understanding the role of aging in melanoma (Smith et al, Under review 2019)<br>
-**Prof. Jacquline Boultwood** *(University of Oxford)*. RNA-seq and splicing analysis in myelodysplastic syndrome (Pellagetti et al, Blood 2018)<br>
-**Narita/Hoare lab** *(University of Cambridge Cancer Institute)*. Molecular basis of sensescence and its role in carcinogenesis (Parry et al, Nature Communications 2018).<br>
-**Coleman Lab** *(University of Cambridge)*. Ongoing collaboration with Coleman group members on bioinformatics aspects of work in squamous cell carcinoma, HPV biology and paediatric tumours. (Kucia-Tran et al, British Journal of Cancer 2016, Journal of Pathology 2018) <br>
-**Raffan/O'Rahilly group** *(University of Cambridge, IMS)*. Collaboration on data analysis of genetic effects on obesity in dogs. (Raffan et al, Cell Metabolism 2016, PeerJ 2015).
+**[Dr. Amaya Viros](https://www.cruk.manchester.ac.uk/Our-Research/Skin-Cancer-and-Ageing)** *(CRUK Manchester Institute)*. Understanding the role of aging in melanoma (Smith et al, Under review 2019)<br>
+**[Prof. Jacqueline Boultwood](https://www.rdm.ox.ac.uk/people/jacqueline-boultwood)** *(University of Oxford)*. RNA-seq and splicing analysis in myelodysplastic syndrome (Pellagetti et al, Blood 2018)<br>
+**[Narita/Hoare lab](https://www.cruk.cam.ac.uk/research-groups/narita-group)** *(University of Cambridge Cancer Institute)*. Molecular basis of sensescence and its role in carcinogenesis (Parry et al, Nature Communications 2018).<br>
+**[Coleman Lab](https://www.path.cam.ac.uk/directory/nick-coleman)** *(University of Cambridge)*. Ongoing collaboration with Coleman group members on bioinformatics aspects of work in squamous cell carcinoma, HPV biology and paediatric tumours. (Kucia-Tran et al, British Journal of Cancer 2016, Journal of Pathology 2018) <br>
+**[Raffan/O'Rahilly group](https://www.mrl.ims.cam.ac.uk/research/early-career-researchers/eleanor-raffan/)** *(University of Cambridge, IMS)*. Collaboration on data analysis of genetic effects on obesity in dogs. (Raffan et al, Cell Metabolism 2016, PeerJ 2015).
 
 ## Previous Research
 
 ### Masters Thesis 
 
 **Functional genomics analysis of papillomavirus oncogenesis in W12 cell lines**<br>  
-**Supervisor:** Professor Nicholas Coleman<br>  
+**Supervisor:** [Professor Nicholas Coleman](https://www.path.cam.ac.uk/directory/nick-coleman)<br>  
 This research explored the functional genomic aspects of HPV carcinogenesis applying network models to high-quality gene expression data in a cell model of HPV16 mediated oncogenesis (Smith et al, Scientific Reports 2016).
 
 ### PhD Thesis 
 
 **Evidence for a remote lung response in endotoxin-mediated direct lung injury: a strategic application of microarray technology.**<br>    
-**Supervisors:** Dr David Collie & Dr Varrie Ogilvie<br>  
+**Supervisors:** [Dr David Collie](https://www.ed.ac.uk/roslin/about/contact-us/staff/david-collie) & Dr Varrie Ogilvie<br>  
 Construction and assay of a suppression-subtraction-hybridisation ovine lung sequence library followed by molecular genomic probing of sheep lung tissue from in vivo models of acute lung injury via novel microarray and qRT-PCR to characterise inflammatory responses in lung segments.
 
 ### BSc Honours Thesis
