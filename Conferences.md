@@ -2,11 +2,14 @@
 
 ## Invited Speaker
 
+Doctors' Updates 2019 (France) <br>
 British Association of Dermatologists Annual Meeting (UK) 2017 (Liverpool, UK) <br>
 British Association of Dermatologists Annual Meeting (UK) 2016 (Birmingam, UK) <br>
 
 ## Presenter
 
+American Academy of Cancer Research Annual Meeting 2019 (Atlanta, GA, USA) <br>
+European Society for Dermatological Research Future Leaders Academy 2018 (Budapest, Hungary)* <br>
 International Investigative Dermatology Conference 2018 (Orlando, FL, USA)* <br>
 Cambridge Pathology symposium 2018 (Cambridge, UK)<br>
 Emirates Dermatology Conference 2017 (Abu Dhabi, UAE) <br>
