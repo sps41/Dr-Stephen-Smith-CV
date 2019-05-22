@@ -3,7 +3,8 @@
 
 ## Oral Presentations International/National Meetings 
 
-2018: Smith SP, Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA). <br>
+2019: Plenary lecture: What's new in Dermatology. Doctors' updates 2019 (Val d'Isere, France) <br>
+2018: Mini-sympoium research presentation: Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA). <br>
 2017: Invited Lecture: Epigenetics for Dummies. British Association of Dermatologists Annual Congress (Liverpool, UK)  <br>
 2016: Plenary Lecture: The Next Revolution: Computational Biology and the Skin. British Association of Dermatologists Annual Congress (Birmingham, UK)  <br>
 2016: Invited Workshop: Bioinformatics in HPV Research. HPV UK 2016 (Lake District, UK)  <br>
@@ -12,7 +13,8 @@
 
 ## Invited oral presentations
 
-2018: Host Transcriptional Control by Human Papillomavirus. Univesrity of Cambridge Pathology Department Annual Symposium (Cambridge, UK) <br>
+2019: Invited Lecture: Big Data in Dermatology. British Association of Dermatologists THESIS course (London, UK) <br>
+2018: Host Transcriptional Control by Human Papillomavirus. University of Cambridge Pathology Department Annual Symposium (Cambridge, UK) <br>
 2017: Big Data, Machine Learning and Dermatology: Rise of the Machines. Newcastle Medical School Research in Progress Lecture (Newcastle, UK)  <br>
 2017: Invited Lecture: Computational Biology in Dermatology. British Association of Dermatologists THESIS course (London, UK) <br>
 2015: It’s melanoma, is it serious? Addenbrookes Staff Grand Rounds (Cambridge, UK)  <br>
@@ -21,6 +23,7 @@
 
 ## Conference Presentations
 
+2019: Smith SP, Gaudy-Marqueste C, Kumar R, Marais R, Nagore E, Viros A. Genomic signature of poor outcome in elderly melanoma predicts immunotherapy response. American Association for Cancer Research 2019 (Atlanta, Georgia, USA) [Poster](/AACR_Poster_SPS.pdf/) <br>
 2018: Smith SP, Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA).  [Poster](/IID_2018_poster_SSmith.pdf/) <br>
 2017: Smith SP GATAD2A, a chromatin remodelling gene, is a powerful prognostic marker in malignant melanoma. British Society for Investigative Dermatology (Manchester, UK)  <br>
 2016: Smith SP, Mehta SG, Burrows N. A Rare Form of Classical Ehlers-Danlos Syndrome with Arterial Rupture. British Society for Medical Dermatology (London, UK)  <br>
