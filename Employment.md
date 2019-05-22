@@ -12,6 +12,10 @@ Addenbrookes Hospital, Cambridge
 NICE Health Technology Appraisals Guidance Committee <br>
 National Institute for Health and Care Excellence, Committee B
 
+2019 – Present<br>
+Founder & Director <br>
+Deepskin Dermatology (Cambridge)
+
 2013 – 2018<br>
 Academic Clinical Fellow (ST3+) Dermatology and Clinical Pharmacology <br>
 Cambridge University Hospitals NHS Trust, Cambridge <br>
