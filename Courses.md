@@ -7,6 +7,7 @@
 
 ## Courses Attended 
 
+2018: European Society for Dermatological Research Future Leaders Academy <br>
 2018: BPS Experimental Medicine Training Day (Early phase trial design) <br>
 2018: NIHR Statistics Group Early Phase Trials workshop <br>
 2017: NICE Technology appraisals Away Day <br>
