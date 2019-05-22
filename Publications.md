@@ -11,35 +11,35 @@ Pellagatti A, Steeples V, Armstrong RN, Sharma E, Repapi E, Singh S, Sanchi A, R
 
 Parry AJ, Hoare M, Bihary D, Hänsel-Hertsch R, **Smith SP**, Tomimatsu K, Mannion E, Smith A, D’Santos P, Russell IA, Balasubramanian S, Kimura H, Samarajiwa SA & Narita M <br>
 *NOTCH-mediated non-cell autonomous regulation of chromatin structure during senescence.* <br>
-**Nature Communications** May 2018 volume 9, Article number: 1840 (2018) [https://doi.org/10.1038/s41467-018-04283-9]
+**Nature Communications** May 2018 volume 9, Article number: 1840 (2018) <https://doi.org/10.1038/s41467-018-04283-9>
 
 Kucia‐Tran, J. A., Tulkki, V. , Scarpini, C. G., **Smith, S.P.** , Wallberg, M. , Paez‐Ribes, M. , Araujo, A. M., Botthoff, J. , Feeney, M. , Hughes, K. , Caffarel, M. M. and Coleman, N.  <br>
 *Anti‐oncostatin M antibody inhibits the pro‐malignant effects of oncostatin M receptor overexpression in squamous cell carcinoma.* <br>
-**Journal of Pathology**, Jan. 2018 244: 283-295. [https://doi.org/10.1002/path.5010]
+**Journal of Pathology**, Jan. 2018 244: 283-295. <https://doi.org/10.1002/path.5010>
 
 **Smith SP**, Baxendale HE, Sterling JC. <br>
 *Therapeutic use of the quadrivalent Human Papillomavirus vaccine for recalcitrant warts in idiopathic immune deficiency.* <br>
-**Clinical and Experimental Dermatology** Jan 2017 42: 306-308. [https://doi.org/10.1111/ced.13038]
+**Clinical and Experimental Dermatology** Jan 2017 42: 306-308. <https://doi.org/10.1111/ced.13038>
 
 **Smith SP**, Scarpini CG, Groves IJ, Odle RI, Coleman N <br>
 *Identification of host transcriptional networks showing concentration-dependent regulation by HPV16 E6 and E7 proteins in basal cervical squamous epithelial cells.* <br>
-**Scientific Reports** Jul 2016; 6:29832. [https://doi.org/10.1038/srep29832] 
+**Scientific Reports** Jul 2016; 6:29832. <https://doi.org/10.1038/srep29832> 
 
 Kucia J, Tulkki V, **Smith SP**, Scarpini C, Hughes K, Araujo AM, Yan KYM, Botthof J, Prez-Gmez E, Sanchez C, Quintanilla M, Cuschieri K, Caffarel MM, Coleman N <br>
 *Overexpression of the oncostatin M receptor in cervical squamous cell carcinoma is associated with epithelialmesenchymal transition and increased metastasis.* <br>
-**British Journal of Cancer** Jul 2016; 115(2):212–22. [https://doi.org/10.1038/bjc.2016.199] 
+**British Journal of Cancer** Jul 2016; 115(2):212–22. <https://doi.org/10.1038/bjc.2016.199> 
 
 Raffan E, Dennis R, O’Donovan C, Becker J, Scott R, **Smith SP**, Withers D, Wood C, Conci E, Clements D, Summers K, German A, Mellerch C, Arendt M, Iyemere V, Withers E, Soder J, Wernersson S, Andersson G, Lindlad-Toh K, Yeo G, O’Rahilly SO <br>
 *A deletion in the canine POMC gene and its relationship to the obesity-proneness of Labrador retriever dogs.* <br>
-**Cell Metabolism** 2016 May; 23(5): 893–900. [https://dx.doi.org/10.1016/j.cmet.2016.04.012] 
+**Cell Metabolism** 2016 May; 23(5): 893–900. <https://dx.doi.org/10.1016/j.cmet.2016.04.012>  
 
 Raffan E, **Smith SP**, O’Rahilly SO, Wardle J. <br>
 *Development, factor structure and application of the Dog Obesity Risk and Appetite (DORA) questionnaire.* <br>
-**PeerJ** 2015; 3:e1278; [https://doi.org/10.7717/peerj.1278] 
+**PeerJ** 2015; 3:e1278; <https://doi.org/10.7717/peerj.1278> 
 
 **Smith SP**, Crawley C, See TC, Screaton N and Preller J. <br>
 *A case of BK virus causing bilateral ureteric obstruction in an allogeneic stem cell transplant recipient.* <br>
-**Journal of Clinical Virology** 2013 Jan; 56(1): 1-4. [https://doi.org/10.1016/j.jcv.2012.07.003]
+**Journal of Clinical Virology** 2013 Jan; 56(1): 1-4. <https://doi.org/10.1016/j.jcv.2012.07.003>
 
 ## Published Abstracts 
 
@@ -49,7 +49,7 @@ Raffan E, **Smith SP**, O’Rahilly SO, Wardle J. <br>
 
 Raffan E, **Smith SP**, Wardle J, O’Rahilly S,
 *Variation in appetitive behaviour between pet dogs; association with obesity and relationship to owner management factors.*
-**Journal of Veterinary Behavior: Clinical Applications and Research** 2015; 10 (5), 447, [https://doi.org/10.1016/j.jveb.2015.07.032.]
+**Journal of Veterinary Behavior: Clinical Applications and Research** 2015; 10 (5), 447, <https://doi.org/10.1016/j.jveb.2015.07.032.>
 
 Raffan E, Diss S, **Smith SP**, Wardle J <br>
 *Development and validation of the Dog Obesity Risk and Appetite (DORA) questionnaire* <br>
@@ -57,7 +57,7 @@ Raffan E, Diss S, **Smith SP**, Wardle J <br>
 
 **Smith SP**. <br>
 *Network analysis identifies master regulators of metastasis in cutaneous melanoma.*<br> 
-**British Journal of Dermatology** 2015 July; 173 (S1): 2176. [https://doi.org/10.1111/bjd.13761] 
+**British Journal of Dermatology** 2015 July; 173 (S1): 2176. <https://doi.org/10.1111/bjd.13761>
 
 **Smith SP** <br>
 *Bioinformatics Identification of Personalised Medicine Repositioning Candidates in Atopic Dermatitis.* <br>
