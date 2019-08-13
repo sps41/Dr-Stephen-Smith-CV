@@ -23,7 +23,11 @@
 
 ## Conference Presentations
 
+2019: Bailey S, Ferraresso M, Smith SP, Nicholson JC, Scarpini CG, Enright AJ, Murray MJ, Coleman N. Targeting oncogenic microRNAs in malignant germ cell tumours with locked nucleic acid-based inhibitors. International Extracranial Germ Cell Tumour Conference 2019 (Cambridge, UK) <br>
+2019: M. Ferraresso1, Bailey S, Panayi C, Smith SP, Nicholson JC, Scarpini CG, Enright AJ, Coleman N, Murray MJ. Mechanism and functional significance of downregulated microRNA expression in malignant germ cell tumours. International Extracranial Germ Cell Tumour Conference 2019 (Cambridge, UK) <br>
+2019: Smith SP, Amin K, Fang S, Morrison T, Coleman N, Murray MJ, Enright AJ. Analysing large scale TGCT data from The Cancer Genome Atlas (TCGA): Challenges and considerations. International Extracranial Germ Cell Tumour Conference 2019 (Cambridge, UK) <br>
 2019: Smith SP, Gaudy-Marqueste C, Kumar R, Marais R, Nagore E, Viros A. Genomic signature of poor outcome in elderly melanoma predicts immunotherapy response. American Association for Cancer Research 2019 (Atlanta, Georgia, USA) [Poster](/AACR_Poster_SPS.pdf/) <br>
+2019: Nagore E, Roeck K, Budden T, Smith SP, Craig S, Krutmann J, Lotz M, Furney S, Viros A. Chronic UV damage of the stroma improves melanoma survival  American Association for Cancer Research 2019 (Atlanta, Georgia, USA) <br>
 2018: Smith SP, Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA).  [Poster](/IID_2018_poster_SSmith.pdf/) <br>
 2017: Smith SP GATAD2A, a chromatin remodelling gene, is a powerful prognostic marker in malignant melanoma. British Society for Investigative Dermatology (Manchester, UK)  <br>
 2016: Smith SP, Mehta SG, Burrows N. A Rare Form of Classical Ehlers-Danlos Syndrome with Arterial Rupture. British Society for Medical Dermatology (London, UK)  <br>
