@@ -55,6 +55,10 @@ Ferraresso M, Bailey S, Panayi C, **Smith SP**, Nicholson JC, Scarpini CG, Enrig
 *Analysing large scale TGCT data from The Cancer Genome Atlas (TCGA): Challenges and considerations.* <br>
 **European Urology Supplements** 2019; 18 (4) 38 <br>
 
+Hasan H, **Smith SP**, Scarpini CG and Coleman N. <br>
+Human papillomavirus subversion of host RNA splicing machinery in early progression. <br>
+**British Journal of Dermatology** 2019; 181 (S1) 48 <br>
+
 **Smith S.P.**, Gaudy-Marqueste C, Kumar R, Marais R, Nagore E, Viros A. <br>
 *Genomic characterization of melanoma in the elderly reveals molecular drivers of progression and prognosis associated with immunotherapy response* <br>
 **Cancer Research** 2019; 79 (13 Supplement) 3994-3994; <https://DOI.org/10.1158/1538-7445.AM2019-3994>
