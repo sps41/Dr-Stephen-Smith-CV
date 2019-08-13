@@ -43,12 +43,20 @@ Raffan E, **Smith SP**, O’Rahilly SO, Wardle J. <br>
 
 ## Published Abstracts 
 
+**Smith S.P.**, Gaudy-Marqueste C, Kumar R, Marais R, Nagore E, Viros A. <br>
+*Genomic characterization of melanoma in the elderly reveals molecular drivers of progression and prognosis associated with immunotherapy response* <br>
+**Cancer Research** 2019; 79 (13 Supplement) 3994-3994; <https://DOI.org/10.1158/1538-7445.AM2019-3994>
+
+Nagore E, Roeck K, Budden T, **Smith SP**, Craig S, Krutmann J, Lotz M, Furney S, Viros A. <br>
+*Chronic UV damage of the stroma improves melanoma survival* <br>
+**Cancer Research** 2019 79 (13 Supplement) 2022-2022;  <https://DOI.org/10.1158/1538-7445.AM2019-2022>
+
 **Smith SP**, Mehta SG, Burrows N. <br>
 *A Rare Form of Classical Ehlers-Danlos Syndrome with Arterial Rupture.* <br>
 **British Journal of Dermatology** 2016; Online Supplement (Accepted) 
 
-Raffan E, **Smith SP**, Wardle J, O’Rahilly S,
-*Variation in appetitive behaviour between pet dogs; association with obesity and relationship to owner management factors.*
+Raffan E, **Smith SP**, Wardle J, O’Rahilly S, <br>
+*Variation in appetitive behaviour between pet dogs; association with obesity and relationship to owner management factors.* <br>
 **Journal of Veterinary Behavior: Clinical Applications and Research** 2015; 10 (5), 447, <https://doi.org/10.1016/j.jveb.2015.07.032.>
 
 Raffan E, Diss S, **Smith SP**, Wardle J <br>
