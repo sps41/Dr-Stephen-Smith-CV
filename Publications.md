@@ -43,6 +43,18 @@ Raffan E, **Smith SP**, O’Rahilly SO, Wardle J. <br>
 
 ## Published Abstracts 
 
+Bailey S, Ferraresso M, **Smith SP**, Nicholson JC, Scarpini CG, Enright AJ, Murray MJ, Coleman N. <br>
+*Targeting oncogenic microRNAs in malignant germ cell tumours with locked nucleic acid-based inhibitors.* <br>
+**European Urology Supplements** 2019; 18 (4) 22 <br>
+
+Ferraresso M, Bailey S, Panayi C, **Smith SP**, Nicholson JC, Scarpini CG, Enright AJ, Coleman N, Murray MJ. <br>
+*Mechanism and functional significance of downregulated microRNA expression in malignant germ cell tumours.* <br>
+**European Urology Supplements** 2019; 18 (4) 22 <br>
+
+**Smith SP**, Amin K, Fang S, Morrison T, Coleman N, Murray MJ, Enright AJ. <br>
+*Analysing large scale TGCT data from The Cancer Genome Atlas (TCGA): Challenges and considerations.* <br>
+**European Urology Supplements** 2019; 18 (4) 38 <br>
+
 **Smith S.P.**, Gaudy-Marqueste C, Kumar R, Marais R, Nagore E, Viros A. <br>
 *Genomic characterization of melanoma in the elderly reveals molecular drivers of progression and prognosis associated with immunotherapy response* <br>
 **Cancer Research** 2019; 79 (13 Supplement) 3994-3994; <https://DOI.org/10.1158/1538-7445.AM2019-3994>
