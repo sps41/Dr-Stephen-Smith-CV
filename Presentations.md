@@ -4,7 +4,7 @@
 ## Oral Presentations International/National Meetings 
 
 2019: Plenary lecture: What's new in Dermatology. Doctors' updates 2019 (Val d'Isere, France) <br>
-2018: Mini-sympoium research presentation: Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA). <br>
+2018: Mini-symposium research presentation: Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA). <br>
 2017: Invited Lecture: Epigenetics for Dummies. British Association of Dermatologists Annual Congress (Liverpool, UK)  <br>
 2016: Plenary Lecture: The Next Revolution: Computational Biology and the Skin. British Association of Dermatologists Annual Congress (Birmingham, UK)  <br>
 2016: Invited Workshop: Bioinformatics in HPV Research. HPV UK 2016 (Lake District, UK)  <br>
@@ -26,6 +26,7 @@
 2019: Bailey S, Ferraresso M, Smith SP, Nicholson JC, Scarpini CG, Enright AJ, Murray MJ, Coleman N. Targeting oncogenic microRNAs in malignant germ cell tumours with locked nucleic acid-based inhibitors. International Extracranial Germ Cell Tumour Conference 2019 (Cambridge, UK) <br>
 2019: M. Ferraresso1, Bailey S, Panayi C, Smith SP, Nicholson JC, Scarpini CG, Enright AJ, Coleman N, Murray MJ. Mechanism and functional significance of downregulated microRNA expression in malignant germ cell tumours. International Extracranial Germ Cell Tumour Conference 2019 (Cambridge, UK) <br>
 2019: Smith SP, Amin K, Fang S, Morrison T, Coleman N, Murray MJ, Enright AJ. Analysing large scale TGCT data from The Cancer Genome Atlas (TCGA): Challenges and considerations. International Extracranial Germ Cell Tumour Conference 2019 (Cambridge, UK) <br>
+2019: Hasan H, Smith SP, Scarpini CG and Coleman N. Human papillomavirus subversion of host RNA splicing machinery in early progression. British Association of Dermatologists Annual Congress 2019 (Liverpool, UK) <br>
 2019: Smith SP, Gaudy-Marqueste C, Kumar R, Marais R, Nagore E, Viros A. Genomic signature of poor outcome in elderly melanoma predicts immunotherapy response. American Association for Cancer Research 2019 (Atlanta, Georgia, USA) [Poster](/AACR_Poster_SPS.pdf/) <br>
 2019: Nagore E, Roeck K, Budden T, Smith SP, Craig S, Krutmann J, Lotz M, Furney S, Viros A. Chronic UV damage of the stroma improves melanoma survival  American Association for Cancer Research 2019 (Atlanta, Georgia, USA) <br>
 2018: Smith SP, Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA).  [Poster](/IID_2018_poster_SSmith.pdf/) <br>
