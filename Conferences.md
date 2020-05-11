@@ -8,10 +8,12 @@ British Association of Dermatologists Annual Meeting (UK) 2016 (Birmingam, UK) <
 
 ## Presenter
 
+International Papillomavirus Conference 2020 (Barcelona, Spain)* <br>
+Pharmacology 2019* <br>
 American Academy of Cancer Research Annual Meeting 2019 (Atlanta, GA, USA) <br>
 European Society for Dermatological Research Future Leaders Academy 2018 (Budapest, Hungary)* <br>
 International Investigative Dermatology Conference 2018 (Orlando, FL, USA)* <br>
-Cambridge Pathology symposium 2018 (Cambridge, UK)<br>
+Cambridge Pathology symposium 2018 (Cambridge, UK)* <br>
 Emirates Dermatology Conference 2017 (Abu Dhabi, UAE) <br>
 British Society for Investigative Dermatology 2017 (Manchester, UK) <br>
 British Society for Medical Dermatology Meeting 2017 (RCP, London, UK) <br>
@@ -25,13 +27,14 @@ Infectious Diseases Society of America Annual Meeting (Boston, USA) 2004 <br>
 
 Innovation, Collaboration and Entrepreneurship in Drug Discovery 2018 (Cambridge, UK)<br>
 BAYES 2018: Bayesian Biostatistics Workshop (Cambridge, UK)<br>
+Cambridge Pathology symposium 2018, 2019 (Cambridge, UK) <br>
 International Investigative Dermatology Conference 2018 (Orlando, FL, USA)<br>
-NICE Technology appraisals Away day 2017 <br>
+NICE Technology appraisals Away day 2017, 2018, 2019 <br>
 Emirates Dermatology Conference 2017 (Abu Dhabi, UAE) <br>
 Annual Symposium of the Cambridge Computational Biology Institute (Cambridge, UK) 2011, 2012, 2013 <br>
-British Association of Dermatologists Annual Meeting (UK) 2015, 2016, 2017 <br> 
+British Association of Dermatologists Annual Meeting (UK) 2015, 2016, 2017, 2018, 2019 <br> 
 British Society for Investigative Dermatology (UK) 2015, 2017  <br>
-British Parmacology Society annual Meeting 2015, 2016, 2017 <br>
+British Parmacology Society annual Meeting 2015, 2016, 2017, 2019 <br>
 British Society for Medical Dermatology Meeting (RCP, London, UK) 2011, 2016  <br>
 HPV UK (Lake District, UK) 2012, 2014, 2016  <br>
 University of Cambridge Department of Medicine Research Day (Cambridge, UK) 2013  <br>
