@@ -3,6 +3,7 @@
 ## Invited Speaker
 
 Doctors' Updates 2019, 2020 (France) <br>
+Cambridge DermSoc Conference 2020 <br>
 British Association of Dermatologists Annual Meeting (UK) 2019 (Liverpool, UK) <br>
 British Association of Dermatologists Annual Meeting (UK) 2018 (Edinburgh, UK) <br>
 British Association of Dermatologists Annual Meeting (UK) 2017 (Liverpool, UK) <br>
