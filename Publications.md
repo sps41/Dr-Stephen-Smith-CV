@@ -5,6 +5,10 @@
 
 ## Journal Articles (Peer-reviewed) 
 
+**Smith SP**, Mohd Mustapa MF, de Berker D. <br>
+*The landscape of psoriasis provision in the UK.* <br>
+**Clinical and Experimental Dermatology** 2020 Accepted
+
 Pellagatti A, Steeples V, Armstrong RN, Sharma E, Repapi E, Singh S, Sanchi A, Radujkovic A, Horn P, Dolatshad H, Roy S, Lockstone H, Taylor S, Giagounidis A, Vyas P, Schuh A, Hamblin A, Papaemmanuil E, Killick S, Malcovati L, Gavin A-C, Ho AD, Luft T, Hellström-Lindberg E, Cazzola M, Smith CWJ, **Smith SP**, and Boultwood J <br>
 *Impact  of spliceosome mutations on RNA splicing in myelodysplasia: dysregulated genes/pathways and clinical associations.* <br>
 **Blood** 2018 Jun 21. pii: blood-2018-04-843771. <https://doi.org/10.1182/blood-2018-04-843771>
