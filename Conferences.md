@@ -2,7 +2,9 @@
 
 ## Invited Speaker
 
-Doctors' Updates 2019 (France) <br>
+Doctors' Updates 2019, 2020 (France) <br>
+British Association of Dermatologists Annual Meeting (UK) 2019 (Liverpool, UK) <br>
+British Association of Dermatologists Annual Meeting (UK) 2018 (Edinburgh, UK) <br>
 British Association of Dermatologists Annual Meeting (UK) 2017 (Liverpool, UK) <br>
 British Association of Dermatologists Annual Meeting (UK) 2016 (Birmingam, UK) <br>
 
