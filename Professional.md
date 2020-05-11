@@ -22,7 +22,7 @@ British Society for Investigative Dermatology ([BSID](https://bsid.org.uk/))<br>
 British Pharmacological Society ([BPS](https://www.bps.ac.uk/))<br>
 British Association for Cancer Research ([BACR](https://www.bacr.org.uk/))<br>
 
-## Leadership & Management Training
+## Leadership & Management
 
 2019-present: European Society for Dermatological Research Leadership Training Program Member<br>
 2018: European Society for Dermatological Research Future Leaders Academy (Budapest, Hungary)<br>
