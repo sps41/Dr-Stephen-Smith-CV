@@ -7,10 +7,14 @@
 
 ## Courses Attended 
 
+2020: European Cancer Research Centres Early Trials (JING) Training Course <br>
+2019: BPS Clinical Pharmacology Training Day <br>
+2019: NICE Technology appraisals Away Day <br>
 2019: BAD Dermatology Registrars' Training Day <br>
 2019: Cambridge Judge Business School Entrepeneurship Centre Accelerate Plus Program <br>
 2018: NICE Technology appraisals Away Day <br>
 2018: BAD Dermatology Registrars' Training Day <br>
+2018: British Cosmetic Dermatology Society Taining Day <br>
 2018: East Region Dermatology Education update Day <br>
 2018: [European Society for Dermatological Research Future Leaders Academy](http://www.esdr.org/educational-programs/future-leaders-academy/2018-esdr-future-leaders-academy) <br>
 2018: BPS Experimental Medicine Training Day (Early phase trial design) <br>
