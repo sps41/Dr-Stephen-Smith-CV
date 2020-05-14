@@ -1,0 +1,1 @@
+pandoc README.md Education.md Employment.md Research.md Professional.md Publications.md Awards.md Presentations.md Teaching.md Courses.md Conferences.md Personal.md -o FullCV2019.pdf -f gfm+hard_line_breaks -V geometry:margin=1in
