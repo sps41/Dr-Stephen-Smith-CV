@@ -5,7 +5,7 @@
 
 ## Journal Articles (Peer-reviewed) 
 
-A Shapanis  C. Lai  **S. Smith**  G Coltart  M. Sommerlad  J. Schofield  E Parkinson  P. Skipp  E. Healy <br>
+A Shapanis,  C. Lai,  **S. Smith**,  G Coltart,  M. Sommerlad,  J. Schofield,  E Parkinson,  P. Skipp,  E. Healy <br>
 *Identification of proteins associated with development of metastasis from cutaneous squamous cell carcinomas (cSCCs) via proteomic analysis of primary cSCCs.* <br>
 **British Journal of Dermatology** 13 August 2020 <https://doi.org/10.1111/bjd.19485> <br>
 
