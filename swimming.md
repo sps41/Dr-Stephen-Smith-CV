@@ -6,5 +6,5 @@ Having started open water swimming I've been getting back into competing and hav
 [Aug 2020 Global Swim Series Virtual Race 5](https://globalswimseries.com/) [1st Overall 3.8 km (non-wetsuit, 52:16) & 10 km (Wetsuit 2:35:21)](https://globalswimseries.com/wp-content/uploads/2020/08/GSS-VR5-Race-Results-1.pdf) <br>
 [Aug 2020 Charlie's Shut Up and Swim Challenge](https://race.se/en/races/7128/about) [2nd Overall 1.6 km (Non-wetsuit, 19:04))](https://globalswimseries.com/wp-content/uploads/2020/09/Charlies-shut-up-and-swim-results.pdf) <br>
 [Aug 2020 Global Swim Series Virtual Race 6](https://globalswimseries.com/) [1st Overall 1.6km (Wetsuit, 18:48) & 1 km (Non-wetsuit, 11:44)](https://globalswimseries.com/wp-content/uploads/2020/07/GSS-VR5-Race-Results-1.pdf) <br>
-[12th September 2020 Mass Start Swim Series 2020](http://www.galeforce-events.com/swimming-events/mass-start-swim-series/) 5 km (Wetsuit).
+[12th September 2020 Mass Start Swim Series 2020](http://www.galeforce-events.com/swimming-events/mass-start-swim-series/) 5 km (Wetsuit). <br>
 [27th September 2020 Exmoor Open Water Swim](http://exmoorswim.co.uk/) 6 km (Wetsuit but counted as skins because sleeveless).
