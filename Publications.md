@@ -73,7 +73,11 @@ Human papillomavirus subversion of host RNA splicing machinery in early progress
 
 Nagore E, Roeck K, Budden T, **Smith SP**, Craig S, Krutmann J, Lotz M, Furney S, Viros A. <br>
 *Chronic UV damage of the stroma improves melanoma survival* <br>
-**Cancer Research** 2019 79 (13 Supplement) 2022-2022;  <https://DOI.org/10.1158/1538-7445.AM2019-2022>
+**Cancer Research** 2019; 79 (13 Supplement) 2022-2022;  <https://DOI.org/10.1158/1538-7445.AM2019-2022>
+
+**S.P. Smith** <br>
+*1067 Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma* <br>
+**Journal of Investigative Dermatology** 2018; 138 (5), S181 <br>
 
 **Smith SP**, Mehta SG, Burrows N. <br>
 *A Rare Form of Classical Ehlers-Danlos Syndrome with Arterial Rupture.* <br>
