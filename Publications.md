@@ -77,7 +77,7 @@ Nagore E, Roeck K, Budden T, **Smith SP**, Craig S, Krutmann J, Lotz M, Furney S
 
 **S.P. Smith** <br>
 *1067 Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma* <br>
-**Journal of Investigative Dermatology** 2018; 138 (5), S181 <br>
+**Journal of Investigative Dermatology** 2018; 138 (5), S181 <https://doi.org/10.1016/j.jid.2018.03.1080> <br>
 
 **Smith SP**, Mehta SG, Burrows N. <br>
 *A Rare Form of Classical Ehlers-Danlos Syndrome with Arterial Rupture.* <br>
