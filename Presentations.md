@@ -3,6 +3,7 @@
 
 ## Oral Presentations International/National Meetings 
 
+2020: Invited Lecture: Using computational models to understand skin cancer biology. British Association of Dermatologists Annual Congress 2020 <br>
 2019: Plenary lecture: What's new in Dermatology. Doctors' updates 2019 (Val d'Isere, France) <br>
 2018: Mini-symposium research presentation: Fascin and Cdk2 are synthetic lethal partners with exceptional potential as joint therapeutic targets in malignant melanoma. International Investigative Dermatology Conference 2018. (Orlando, USA). <br>
 2017: Invited Lecture: Epigenetics for Dummies. British Association of Dermatologists Annual Congress (Liverpool, UK)  <br>
