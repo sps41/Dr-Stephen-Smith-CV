@@ -8,4 +8,16 @@ Aug 2020 [Charlie's Shut Up and Swim Challenge](https://race.se/en/races/7128/ab
 Aug 2020 [Global Swim Series Virtual Race 6](https://globalswimseries.com/) 1.6 km & 1 km: [1st Overall (1.6km Wetsuit, 18:48) & (1 km Non-wetsuit, 11:44)](https://globalswimseries.com/wp-content/uploads/2020/09/GSS-VR6-Full-Results.pdf) <br>
 12th September 2020 [COVID CUP 2020](http://www.galeforce-events.com/swimming-events/mass-start-swim-series/) 5 km (Wetsuit) [Overall winner, 1:12:03](https://resultscui.active.com/events/COVIDCUPSwimRace). <br>
 Sept 2020 [Global Swim Series Virtual Race 7](https://globalswimseries.com/) 1 km & 3.8 km: [1st Overall (1 km Wetsuit, 12:18) & (3.8 km Non-wetsuit, 55:16)](https://globalswimseries.com/wp-content/uploads/2020/09/GSS-VR7-Full-Results.pdf) <br>
+
+Planned Swims <br>
+
 27th September 2020 [Exmoor Open Water Swim](http://exmoorswim.co.uk/) 6 km (Wetsuit but counted as skins because sleeveless).
+
+2021 swims <br>
+OSS Hurly-Burly (confirmed) 10 km <br>
+BLDSA Colwick Park 5 km <br>
+BLDSA Wykeham Lake 8 km, 5 km & 1 km Triple <br>
+BHF Bournemouth sunset pier-to-pier 2.2 km <br>
+Selkie Thames Marathon 14 km <br>
+BLDSA Loch Lomond 21.2 miles (35 km) <br>
+OSS Dart 10k (confirmed) 10 km <br>
