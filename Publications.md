@@ -5,7 +5,11 @@
 
 ## Journal Articles (Peer-reviewed) 
 
-A Shapanis,  C. Lai,  **S. Smith**,  G Coltart,  M. Sommerlad,  J. Schofield,  E Parkinson,  P. Skipp,  E. Healy <br>
+M.J. Murray, **S.P. Smith**, D. Ward, L. Verduci , J.C. Nicholson, C.G. Scarpini, N. Coleman <br>
+*Circulating microRNAs as biomarkers to assist the management of the malignant germ-cell-tumour subtype choriocarcinoma.*  <br>
+**Translational Oncology** 2020; In Press <br>
+
+A Shapanis,  C. Lai,  **S.P. Smith**,  G Coltart,  M. Sommerlad,  J. Schofield,  E Parkinson,  P. Skipp,  E. Healy <br>
 *Identification of proteins associated with development of metastasis from cutaneous squamous cell carcinomas (cSCCs) via proteomic analysis of primary cSCCs.* <br>
 **British Journal of Dermatology** 13 August 2020 <https://doi.org/10.1111/bjd.19485> <br>
 
