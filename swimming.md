@@ -14,9 +14,9 @@ Planned Swims <br>
 
 2021 swims <br>
 OSS Hurly-Burly (confirmed) 10 km <br>
-BLDSA Colwick Park 5 km <br>
-BLDSA Wykeham Lake 8 km, 5 km & 1 km Triple <br>
+BLDSA Colwick Park (confirmed) 5 km <br>
+BLDSA Wykeham Lake (confirmed) 8 km, 5 km & 1 km Triple <br>
 BHF Bournemouth sunset pier-to-pier 2.2 km <br>
 Selkie Thames Marathon 14 km <br>
-BLDSA Loch Lomond 21.2 miles (35 km) <br>
+BLDSA Loch Lomond (confirmed) 21.2 miles (35 km) <br>
 OSS Dart 10k (confirmed) 10 km <br>
