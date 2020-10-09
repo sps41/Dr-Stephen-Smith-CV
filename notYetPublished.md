@@ -11,6 +11,10 @@ Genetic markers of prognosis and immunotherapy response in melanoma of the elder
 
 In preparation
 
+British Association of Dermatologists (BAD) National Clinical Audit on the Management of Hidradenitis Suppurativa (HS) in the UK. <br>
+S.B. Hasan, **S.P. Smith**, A. Brain, M.F. Mohd Mustapa, S.T. Cheung, J.R. Ingram,  D.A.R. de Berker <br>
+Clinical and Experimental Dermatology 2020 <br>
+
 EC detection Smith/Murray/coleman
 
 Melanoma drug repositioning Smith/Bailey/Coleman
