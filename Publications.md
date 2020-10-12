@@ -19,7 +19,7 @@ A Shapanis,  C. Lai,  **S.P. Smith**,  G Coltart,  M. Sommerlad,  J. Schofield, 
 
 Pellagatti A, Steeples V, Armstrong RN, Sharma E, Repapi E, Singh S, Sanchi A, Radujkovic A, Horn P, Dolatshad H, Roy S, Lockstone H, Taylor S, Giagounidis A, Vyas P, Schuh A, Hamblin A, Papaemmanuil E, Killick S, Malcovati L, Gavin A-C, Ho AD, Luft T, Hellström-Lindberg E, Cazzola M, Smith CWJ, **Smith SP**, and Boultwood J <br>
 *Impact  of spliceosome mutations on RNA splicing in myelodysplasia: dysregulated genes/pathways and clinical associations.* <br>
-**Blood** 2018 Jun 21. pii: blood-2018-04-843771. <https://doi.org/10.1182/blood-2018-04-843771>
+**Blood** 2018 Jun 21. 132 (12): 1225–1240. <https://doi.org/10.1182/blood-2018-04-843771>
 
 Parry AJ, Hoare M, Bihary D, Hänsel-Hertsch R, **Smith SP**, Tomimatsu K, Mannion E, Smith A, D’Santos P, Russell IA, Balasubramanian S, Kimura H, Samarajiwa SA & Narita M <br>
 *NOTCH-mediated non-cell autonomous regulation of chromatin structure during senescence.* <br>
