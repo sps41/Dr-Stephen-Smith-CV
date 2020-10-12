@@ -7,7 +7,7 @@
 
 M.J. Murray, **S.P. Smith**, D. Ward, L. Verduci , J.C. Nicholson, C.G. Scarpini, N. Coleman <br>
 *Circulating microRNAs as biomarkers to assist the management of the malignant germ-cell-tumour subtype choriocarcinoma.*  <br>
-**Translational Oncology** 2020; In Press <br>
+**Translational Oncology** 2020, Volume 14, Issue 1, 100904; <https://doi.org/10.1016/j.tranon.2020.100904> <br>
 
 A Shapanis,  C. Lai,  **S.P. Smith**,  G Coltart,  M. Sommerlad,  J. Schofield,  E Parkinson,  P. Skipp,  E. Healy <br>
 *Identification of proteins associated with development of metastasis from cutaneous squamous cell carcinomas (cSCCs) via proteomic analysis of primary cSCCs.* <br>
