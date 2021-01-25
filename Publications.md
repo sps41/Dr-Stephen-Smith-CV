@@ -5,6 +5,10 @@
 
 ## Journal Articles (Peer-reviewed) 
 
+S. Goncalves, K. Yin, Y. Ito, A. Chan, I. Olan, **S.P. Smith**, A. Young, M. Narita, M. Hoare <br>
+*COX2 regulates senescence secretome composition and senescence surveillance through PGE2.*  <br>
+**Cell reports** 2021. Accepted for publication. <br>
+
 M.J. Murray, **S.P. Smith**, D. Ward, L. Verduci , J.C. Nicholson, C.G. Scarpini, N. Coleman <br>
 *Circulating microRNAs as biomarkers to assist the management of the malignant germ-cell-tumour subtype choriocarcinoma.*  <br>
 **Translational Oncology** 2020, Volume 14, Issue 1, 100904; <https://doi.org/10.1016/j.tranon.2020.100904> <br>
