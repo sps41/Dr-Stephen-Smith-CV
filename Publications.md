@@ -5,6 +5,10 @@
 
 ## Journal Articles (Peer-reviewed) 
 
+I.J. Groves, E.L.A. Drane, M. Michalski, J. Monahan, C.G. Scarpini, **S.P. Smith**, G. Bussotti, C. Varnai, S. Schoenfelder, P. Fraser, A.J. Enright, N. Coleman <br>
+*Three-dimensional interactions between integrated HPV genomes and cellularchromatin dysregulate host gene expression in early cervical carcinogenesis.* <br>
+**BioarXiv** 2021 <br>
+
 S. Goncalves, K. Yin, Y. Ito, A. Chan, I. Olan, **S.P. Smith**, A. Young, M. Narita, M. Hoare <br>
 *COX2 regulates senescence secretome composition and senescence surveillance through PGE2.*  <br>
 **Cell reports** 2021. Accepted for publication. <br>
