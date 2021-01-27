@@ -5,7 +5,7 @@
 
 ## Journal Articles (Peer-reviewed) 
 
-S.P. Smith, E. Nagore, R. Kumar, R. Marais, C. Gaudy-Marqueste, A. Virós <br>
+**S.P. Smith**, E. Nagore, R. Kumar, R. Marais, C. Gaudy-Marqueste, A. Virós <br>
 *Genetic markers of prognosis and immunotherapy response in melanoma of the elderly.*  <br>
 **BioarXiv** 2021 <br>
 
