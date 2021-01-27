@@ -12,8 +12,8 @@ EC detection Smith/Murray/coleman
 
 Melanoma drug repositioning Smith/Bailey/Coleman
 
+HPV splicing Smith et al
+
 Ferraresso et al
 
 Bailey et al
-
-Groves et al
