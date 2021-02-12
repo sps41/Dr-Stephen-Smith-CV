@@ -5,6 +5,10 @@
 
 ## Journal Articles (Peer-reviewed) 
 
+S.B. Hasan, **S.P. Smith**, A. Brain, M.F. Mohd Mustapa, S.T. Cheung, J.R. Ingram and D.A.R. de Berker <br>
+*British Association of Dermatologists (BAD) National Clinical Audit on the Management of Hidradenitis Suppurativa (HS) in the UK* <br>
+**Clinical and Experimental Dermatology** 2021 DOI: 10.1111/ced.14598 <br>
+
 **S.P. Smith**, E. Nagore, R. Kumar, R. Marais, C. Gaudy-Marqueste, A. Virós <br>
 *Genetic markers of prognosis and immunotherapy response in melanoma of the elderly.*  <br>
 **BioarXiv** 2021 <br>
