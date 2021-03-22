@@ -13,12 +13,10 @@ Sept 2020 [Global Swim Series Virtual Race 7](https://globalswimseries.com/) 1 k
 Planned Swims <br>
 
 2021 swims <br>
-OSS Hurly-Burly (confirmed) 10 km <br>
 BLDSA Colwick Park (confirmed) 5 km <br>
-BLDSA Wykeham Lake (confirmed) 8 km, 5 km & 1 km Triple <br>
+BLDSA Champion of Champions (Dover) <br>
 BHF Bournemouth sunset pier-to-pier 2.2 km <br>
 Selkie Thames Marathon (confirmed) 14 km <br>
 BLDSA Loch Lomond (confirmed) 21.2 miles (35 km) <br>
-OSS Dart 10k (confirmed) 10 km <br>
 
 [Training Plan](/TrainingPlan.md/)
