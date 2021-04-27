@@ -5,7 +5,7 @@
 **Honorary Speciality Registrar in Dermatology and Clinical Pharmacology**  
 *Addenbrookes Hospital, Cambridge*
 
-I am a clinician scientist based in Cambridge. My research is focused on using cutting edge computational and mathematical tools to understand the pathogenesis and aetiology of cancer, in particular squamous cell carcinoma. As a dermatologist and clinical pharmacologist I am ultimately driven by the need to translate the findings of fundamental scientific research into clinically relevant outcomes. I am available for consultancy via the contact details below.
+I am a clinician scientist based in Cambridge. My research is focused on using cutting edge computational and mathematical tools to interrogate large-scale health and biological data collections. My clinical training shapes the direction of my research questions, always aiming to leverage understanding of diseases to improve patient care and population health. My primary focus is to understand the pathogenesis and aetiology of cancer, in particular squamous cell carcinoma and to identify key interventional opportunities. As a dermatologist and clinical pharmacologist I am ultimately driven by the need to translate the findings of fundamental scientific research into clinically relevant outcomes. I have a deep interest in improving health across the board and apply my combination of quantitative and clinical training to health economics through my NICE committee membership, advancement of clinical practice through regular audit and quality improvement work and innovation through development of intellectual property arising from my research. I am available for consultancy via the contact details below.
 
 ## Contents
 
