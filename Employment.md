@@ -12,6 +12,10 @@ Addenbrookes Hospital, Cambridge
 NICE Health Technology Appraisals Guidance Committee <br>
 National Institute for Health and Care Excellence, Committee B
 
+Dec 2020 - Jun 2021 <br>
+Scientific Adviser (Immune lead), Due Diligence <br>
+UK Covid Therapeutics Advisory Panel.
+
 2019 – Present<br>
 Founder & Director <br>
 Deepskin Dermatology (Cambridge)
