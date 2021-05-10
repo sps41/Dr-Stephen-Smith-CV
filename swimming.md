@@ -1,4 +1,7 @@
 Having started open water swimming I've been getting back into competing and have so far logged some race results as below: <br>
+
+[World Champion](https://globalswimseries.com/2020-21-season-concludes-global-champions-announced/), Global Swim Series 2020/21 (40-49 age group, non-wetsuit) & 2nd in wetsuit category. <br>
+ <br>
 Jun 2020 [Global Swim Series Virtual Race 2](https://globalswimseries.com/) 1.6 km: [1st Overall (Wetsuit, 19:45)](https://globalswimseries.com/wp-content/uploads/2020/07/GSS-VR2-1.6km-Results.pdf) <br>
 Jun 2020 [Henley Classic virtual Swim](https://henleyswim.com/events/henley-classic/) 2.1 km: [Finisher (Wetsuit, 29:09)](https://www.strava.com/activities/3667963534) <br>
 Jul 2020 [Global Swim Series Virtual Race 3](https://globalswimseries.com/) 1.6 km: [1st Overall (Non-wetsuit, 18:14)](https://globalswimseries.com/wp-content/uploads/2020/07/GSS-Virtual-Race-3-1.6km-Results.pdf) & [3.8 km (Wetsuit 49:50)](https://globalswimseries.com/wp-content/uploads/2020/07/GSS-Virtual-Race-3-3.8km-Results.pdf) <br>
@@ -14,8 +17,9 @@ Planned Swims <br>
 
 2021 swims <br>
 BLDSA Colwick Park (confirmed) 5 km <br>
-BLDSA Champion of Champions (Dover) <br>
-BHF Bournemouth sunset pier-to-pier 2.2 km <br>
+BLDSA Champion of Champions (Dover) 9 miles (confirmed) <br>
+Henley Classic 2.1km (confirmed) <br>
+BHF Bournemouth sunset pier-to-pier 2.2 km (confirmed) <br>
 Selkie Thames Marathon (confirmed) 14 km <br>
 BLDSA Loch Lomond (confirmed) 21.2 miles (35 km) <br>
 
