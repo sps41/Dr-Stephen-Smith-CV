@@ -1,5 +1,11 @@
 # Professional Service, Leadership & Management
 
+## Leadership & Management
+
+2019-present: European Society for Dermatological Research Leadership Training Program Member<br>
+2018: European Society for Dermatological Research Future Leaders Academy (Budapest, Hungary)<br>
+2018: International Investigative Dermatology Residents Retreat (Orlando, Florida)
+
 ## Committee Positions (Present)
 
 2017-present: [NICE Health Technology appraisals committee B](https://www.nice.org.uk/get-involved/meetings-in-public/technology-appraisal-committee/committee-b-members) (Member)<br>
@@ -22,8 +28,4 @@ British Society for Investigative Dermatology ([BSID](https://bsid.org.uk/))<br>
 British Pharmacological Society ([BPS](https://www.bps.ac.uk/))<br>
 British Association for Cancer Research ([BACR](https://www.bacr.org.uk/))<br>
 
-## Leadership & Management
 
-2019-present: European Society for Dermatological Research Leadership Training Program Member<br>
-2018: European Society for Dermatological Research Future Leaders Academy (Budapest, Hungary)<br>
-2018: International Investigative Dermatology Residents Retreat (Orlando, Florida)
