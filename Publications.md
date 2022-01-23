@@ -5,6 +5,22 @@
 
 ## Journal Articles (Peer-reviewed) 
 
+PF Chinnery, M Bonnet, A Cave, MP Hofer, A Lamb, GA McConkey, ...
+*Choosing drugs for UK COVID-19 treatment trials*
+**Nature Reviews Drug Discovery**		2021
+
+*Targeting Oncogenic Micrornas in Malignant Germ Cell Tumours with Locked Nucleic Acid (LNA)-Based Inhibitors*
+S Bailey, M Ferraresso, **S Smith**, D Ward, JC Nicholson, A Enright, N Coleman, M Murray*
+**PEDIATRIC BLOOD & CANCER** 68, S148-S149		2021
+
+IJ Groves, ELA Drane, M Michalski, JM Monahan, CG Scarpini, **SP Smith**, ...
+*Short- and long-range cis interactions between integrated HPV genomes and cellular chromatin dysregulate host gene expression in early cervical carcinogenesis*
+**PLoS pathogens** 17 (8), e1009875	4*	2021
+
+A Shapanis, C Lai, **S Smith**, G Coltart, M Sommerlad, J Schofield, ...
+*Identification of proteins associated with development of metastasis from cutaneous squamous cell carcinomas (cSCCs) via proteomic analysis of primary cSCCs*
+**British Journal of Dermatology** 184 (4), 709-721
+
 S.B. Hasan, **S.P. Smith**, A. Brain, M.F. Mohd Mustapa, S.T. Cheung, J.R. Ingram and D.A.R. de Berker <br>
 *British Association of Dermatologists (BAD) National Clinical Audit on the Management of Hidradenitis Suppurativa (HS) in the UK* <br>
 **Clinical and Experimental Dermatology** 2021 DOI: 10.1111/ced.14598 <br>
